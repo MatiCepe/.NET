@@ -1,0 +1,44 @@
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\AccesoaDatos\obj\Debug\AccesoaDatos.csprojResolveAssemblyReference.cache
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\AccesoaDatos.dll.config
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\AccesoaDatos.dll
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\AccesoaDatos.pdb
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\Dominio.dll
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\EntityFramework.dll
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\Dominio.pdb
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\EntityFramework.xml
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\AccesoaDatos\obj\Debug\AccesoaDatos.dll
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\AccesoaDatos\obj\Debug\AccesoaDatos.pdb
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\MySql.Data.dll
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\MySql.Data.Entity.EF5.dll
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\AccesoaDatos.dll.config
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\AccesoaDatos.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\AccesoaDatos.pdb
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\Dominio.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\EntityFramework.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\MySql.Data.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\MySql.Data.Entity.EF5.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\Dominio.pdb
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\EntityFramework.xml
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\AccesoaDatos\obj\Debug\AccesoaDatos.csprojResolveAssemblyReference.cache
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\AccesoaDatos\obj\Debug\AccesoaDatos.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\AccesoaDatos\obj\Debug\AccesoaDatos.pdb
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\AccesoaDatos.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\AccesoaDatos.pdb
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\Dominio.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\EntityFramework.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\EntityFramework.SqlServer.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\MySql.Data.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\MySql.Data.Entity.EF5.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\Dominio.pdb
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\EntityFramework.xml
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\AccesoaDatos\bin\Debug\EntityFramework.SqlServer.xml
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\AccesoaDatos\obj\Debug\AccesoaDatos.csprojResolveAssemblyReference.cache
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\AccesoaDatos\obj\Debug\AccesoaDatos.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\AccesoaDatos\obj\Debug\AccesoaDatos.pdb

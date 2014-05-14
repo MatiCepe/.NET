@@ -1,0 +1,5 @@
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\Log\bin\Debug\Log.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\Log\bin\Debug\Log.pdb
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\Log\obj\Debug\Log.csprojResolveAssemblyReference.cache
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\Log\obj\Debug\Log.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\Log\obj\Debug\Log.pdb

@@ -1,0 +1,59 @@
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\obj\Debug\SystemTest.csprojResolveAssemblyReference.cache
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\SystemTest.exe.config
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\SystemTest.exe
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\SystemTest.pdb
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\AccesoaDatos.dll
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\Dominio.dll
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\Repositorio.dll
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\EntityFramework.dll
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\AccesoaDatos.pdb
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\Dominio.pdb
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\Repositorio.pdb
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\EntityFramework.xml
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\obj\Debug\SystemTest.exe
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\obj\Debug\SystemTest.pdb
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\MySql.Data.dll
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\MySql.Data.Entity.EF5.dll
+c:\users\matias\documents\visual studio 2013\Projects\Gerenciamiento de Proyectos\SystemTest\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\SystemTest.exe.config
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\SystemTest.exe
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\SystemTest.pdb
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\AccesoaDatos.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\Dominio.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\EntityFramework.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\MySql.Data.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\MySql.Data.Entity.EF5.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\Repositorio.dll
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\AccesoaDatos.pdb
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\Dominio.pdb
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\Repositorio.pdb
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\EntityFramework.xml
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\obj\Debug\SystemTest.csprojResolveAssemblyReference.cache
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\obj\Debug\SystemTest.exe
+D:\Escritorio\.net facu\Gerenciamiento de Proyectos\Gerenciamiento de Proyectos\SystemTest\obj\Debug\SystemTest.pdb
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\SystemTest.exe.config
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\obj\Debug\SystemTest.exe
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\obj\Debug\SystemTest.pdb
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\SystemTest.exe
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\SystemTest.pdb
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\AccesoaDatos.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\Dominio.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\EntityFramework.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\MySql.Data.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\MySql.Data.Entity.EF5.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\MySql.Data.Entity.EF6.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\Repositorio.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\AccesoaDatos.pdb
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\Dominio.pdb
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\Repositorio.pdb
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\EntityFramework.xml
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\obj\Debug\SystemTest.csprojResolveAssemblyReference.cache
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\Log.dll
+D:\punto.NET\Repositorio\Gerenciamiento de Proyectos\SystemTest\bin\Debug\Log.pdb
